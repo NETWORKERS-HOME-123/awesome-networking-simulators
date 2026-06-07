@@ -81,6 +81,9 @@ Production-grade open-source security tools we built for our own SOC and lab —
 
 ## 📚 Exam coverage matrix
 
+
+- [Courseiva CCNA Practice](https://courseiva.com/certifications/ccna) — Free CCNA practice questions with CLI exhibit rendering, topology diagrams, and detailed explanations.
+
 | Certification | Relevant simulators | NH course path |
 |---|---|---|
 | **CCNA 200-301** | Cisco IOS CLI, Netsim | [CCNA in Bangalore](https://www.networkershome.com/best-ccna-course-in-bangalore/) |
